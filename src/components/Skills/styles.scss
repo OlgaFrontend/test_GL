@@ -1,0 +1,22 @@
+.skills {
+	padding: 60px 0;
+	font-family: 'Open Sans', sans-serif;
+	background-color: #fff;
+	color: #000;
+	border-bottom: 2px solid #ccc;
+	
+	&__title {
+		margin-bottom: 30px;
+		font-size: 30px;
+		text-transform: uppercase;
+		text-align: center;
+	}
+
+	&__list {
+		list-style: none;
+		text-align: center;
+		font-size: 30px;
+	}
+}
+
+
